@@ -1,7 +1,7 @@
 # Домашня работа ООП в Python модуль 12 (5.6.1 (PJ-02))
 
 
-* [Telegramm bot (code)](https://github.com/racfor1/sf_data_science/tree/main/homework_5.6.1(PJ-02))
+* [Telegramm bot (code)](https://github.com/racfor1/sf_data_science/tree/main/homework_5.6.1(PJ-01))
 * [Telegramm bot (link)](https://t.me/CryptoBotEvg_bot)
 
 
