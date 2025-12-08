@@ -1,5 +1,5 @@
 # sf_data_science
-homework
+homework_
 
 * [Проект 0. Угадай число](https://github.com/racfor1/sf_data_science/tree/main/project_0)
 * [Крестики нолики(tic tac toe)](https://github.com/racfor1/sf_data_science/tree/main/homework_5.6.1(HW-02))
